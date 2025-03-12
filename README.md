@@ -5,7 +5,7 @@
 
 - 👨‍💻 Linkedln [www.linkedin.com/in/juan-david-diaz-cepeda-bbb139201](www.linkedin.com/in/juan-david-diaz-cepeda-bbb139201)
 
-- 💬 Ask me about **Trabajo con C#, API REST, SQL, Python, Java (POO), JavaScript, Node.js y .NET, integrando bases de datos con SQL y SAP HANA.**
+- 💬 C#, API REST, SQL, Python, Java (POO), JavaScript, Node.js y .NET, integrando bases de datos con SQL y SAP HANA.**
 
 - 📫 How to reach me **juancdiaz29@outlook.com**
 
