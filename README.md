@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan David Diaz Cepeda</h1>
 <h3 align="center">Estudiante de Ingeniería en Automatización</h3>
 
-- 🌱 Actualmente aprendiendo **Computer Vision y automatización de procesos.**
+- 🌱 Actualmente aprendiendo **Automatización de procesos.**
 
 - 👨‍💻 Linkedln [www.linkedin.com/in/juan-david-diaz-cepeda-bbb139201](www.linkedin.com/in/juan-david-diaz-cepeda-bbb139201)
 
