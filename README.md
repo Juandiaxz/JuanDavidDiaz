@@ -22,7 +22,7 @@
 📌 **[Sistema de Inventarios - SQL](https://github.com/Juandiaxz/Sistema-de-Inventarios.git)**  
 📦 Base de datos optimizada para gestionar productos, clientes y órdenes con consultas avanzadas.  
 
-📌 **[Notas con IA - React + Node.js + OpenAI](https://github.com/Diaxz/Notas-IA)**  
+📌 **[Notas con IA - React + Node.js + OpenAI](https://github.com/Juandiaxz/Notas-con-IA.git)**  
 📝 Aplicación web para tomar notas con inteligencia artificial que las resume y clasifica.  
 
 🌟 **Explora mis proyectos en GitHub y conéctate conmigo!**  
