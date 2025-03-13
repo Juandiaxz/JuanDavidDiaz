@@ -16,7 +16,7 @@
 📌 **[Transacciones Financieras - .NET C# + MongoDB](https://github.com/Juandiaxz/Transacciones_Financieras.git)**  
 💡 Plataforma para realizar transferencias bancarias con autenticación y manejo seguro de datos.  
 
-📌 **[Detector de Defectos - Python + Computer Vision](https://github.com/Diaxz/Detector-Defectos-CV)**  
+📌 **[Detector de Defectos - Python + Computer Vision](https://github.com/Juandiaxz/Detector-de-Defectos.git)**  
 🤖 Sistema de visión por computadora para detectar productos defectuosos en una línea de producción.  
 
 📌 **[Sistema de Inventarios - SQL](https://github.com/Diaxz/Sistema-Inventarios-SQL)**  
