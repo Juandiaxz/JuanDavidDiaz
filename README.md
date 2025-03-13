@@ -13,7 +13,7 @@
 
 ## 🚀 Proyectos Destacados  
 
-📌 **[Transacciones Financieras - .NET C# + MongoDB](https://github.com/Diaxz/Transferencias-Bancarias)**  
+📌 **[Transacciones Financieras - .NET C# + MongoDB](https://github.com/Juandiaxz/Transacciones_Financieras.git)**  
 💡 Plataforma para realizar transferencias bancarias con autenticación y manejo seguro de datos.  
 
 📌 **[Detector de Defectos - Python + Computer Vision](https://github.com/Diaxz/Detector-Defectos-CV)**  
