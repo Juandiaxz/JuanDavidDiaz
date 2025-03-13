@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Diaz Cepeda</h1>
-<h3 align="center">Estudiante de Ingeniería en Automatización (Noveno Semestre)</h3>
+<h3 align="center">Estudiante de Ingeniería en Automatización (9° Semestre)</h3>
 
 - 🌱 Actualmente aprendiendo **Automatización de procesos.**  
 
