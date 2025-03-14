@@ -26,16 +26,20 @@
 ## 🚀 Proyectos Destacados  
 
 📌 **[Transacciones Financieras - .NET C# + MongoDB](https://github.com/Juandiaxz/Transacciones_Financieras.git)**  
-💡 Plataforma para realizar transferencias bancarias con autenticación y manejo seguro de datos.  
+💡 Plataforma para realizar transferencias bancarias con autenticación y manejo seguro de datos. **(En desarrollo 🚧)** 
 
 📌 **[Detector de Defectos - Python + Computer Vision](https://github.com/Juandiaxz/Detector-de-Defectos.git)**  
-🤖 Sistema de visión por computadora para detectar productos defectuosos en una línea de producción.  
+🤖 Sistema de visión por computadora para detectar productos defectuosos en una línea de producción.**(En desarrollo 🚧)**  
 
 📌 **[Sistema de Inventarios - SQL](https://github.com/Juandiaxz/Sistema-de-Inventarios.git)**  
-📦 Base de datos optimizada para gestionar productos, clientes y órdenes con consultas avanzadas.  
+📦 Base de datos optimizada para gestionar productos, clientes y órdenes con consultas avanzadas. **(En desarrollo 🚧)**
 
 📌 **[Notas con IA - React + Node.js + OpenAI](https://github.com/Juandiaxz/Notas-con-IA.git)**  
-📝 Aplicación web para tomar notas con inteligencia artificial que las resume y clasifica.  
+📝 Aplicación web para tomar notas con inteligencia artificial que las resume y clasifica. **(En desarrollo 🚧)**
+
+📌 **[Diseño de un vehículo rover para terrenos variados](https://github.com/Juandiaxz/Dise-o-de-Rover.git)**  
+📝 Aplicación CAD para diseñar un vehículo rover para terrenos 4x4 **(En desarrollo 🚧)**
+
 
 🌟 **Explora mis proyectos en GitHub y conéctate conmigo!**  
 
