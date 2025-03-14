@@ -8,10 +8,15 @@
  
 
 🔹 **Software & Programación:** C#, API REST, SQL, Python, Java (POO), JavaScript, Node.js, .NET  
+
 🔹 **Bases de Datos:** SQL, SAP HANA, MongoDB  
-🔹 **Automatización & Microcontroladores:** Programación en Microcontroladores, manejo de **diagramas de estados y registros**  
+
+🔹 **Automatización & Microcontroladores:** Programación en Microcontroladores, manejo de maquinas de estados
+
 🔹 **Diseño Mecánico & CAD:** SolidWorks (modelado y simulación)
+
 🔹 **Control:** PLC´S, Ladder, Grafcet, AutoCad.
+
 🔹 **Áreas de interés:** Computer Vision, sistemas embebidos, robótica, optimización de procesos
 
 - 📫 Contacto: **juancdiaz29@outlook.com**  
@@ -36,7 +41,7 @@
 
 ---
 
-<h3 align="left">Empezando en el mundo del Competitive Programming, conectemonos:</h3>
+<h3 align="left">Empezando en el mundo del competitive Programming, lento pero seguro:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/Diaxz" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/diaxz" height="30" width="40" />
