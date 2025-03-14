@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="left">Empezando en el mundo del competitive Programming, lento pero seguro:</h3>
+<h3 align="left">Empezando en el mundo del competitive programming, lento pero seguro:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/Diaxz" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/diaxz" height="30" width="40" />
